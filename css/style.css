@@ -22,12 +22,27 @@ body {
     margin-right: auto;
     margin-top: 2%;
     justify-content: center;
-    display: flex;
+}
+
+.list {
+    text-align: center;
+}
+
+.options {
+    box-shadow:  3px 3px lightblue;
+    font-weight: bold;  
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border: 2px solid #aa7ecd;
+    text-transform: uppercase;
+    text-align: center;
+    background: rgb(150, 248, 235);
+    font-size: 1.1em;
+    border-radius: 10px;
+    outline:none;
 }
 
 .cat {
     width: 500px;
     height: 600px; 
-    padding-right:2%;
-    padding-left:2%;
 }
