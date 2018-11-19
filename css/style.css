@@ -1,0 +1,27 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    text-align: center;
+}
+
+.heading {
+    margin: 0;
+    padding-top: 2%;
+    color:#000066;
+    text-shadow: 2px 2px lightblue;
+}
+
+/*main*/
+.container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    justify-content: center;
+}
+
+.cat {
+    width: 500px;
+    height: 600px; 
+}
